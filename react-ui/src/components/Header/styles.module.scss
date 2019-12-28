@@ -1,0 +1,8 @@
+@import '../../global-styles/mixins.scss';
+
+.site-logo {
+  @include desktop {
+    position: absolute;
+    top: -10px;
+  }
+}

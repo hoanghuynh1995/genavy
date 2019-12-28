@@ -1,0 +1,10 @@
+export const TodoList = {
+  ADD_ITEM: 'ADD_ITEM',
+  DELETE_ITEM: 'DELETE_ITEM'
+}
+
+export const User = {
+  LOGIN_REQUEST: 'LOGIN_REQUEST',
+  LOGIN_SUCCESS: 'LOGIN_SUCCESS',
+  LOGIN_FAILED: 'LOGIN_FAILED'
+}
